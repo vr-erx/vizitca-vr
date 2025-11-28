@@ -1,1 +1,20 @@
 # vizitca-vr
+![1](![1](https://github.com/user-attachments/assets/2b431313-a75a-4962-b282-a978f8d32f79)
+)
+![2](![2](https://github.com/user-attachments/assets/086221ea-1612-4430-9c60-5512b97b47be)
+)
+![3](![3](https://github.com/user-attachments/assets/f24e5fef-6ae6-4ab9-aeb3-1a1581e9c076)
+)
+![4](![4](https://github.com/user-attachments/assets/c32d4f2b-4189-4e7d-b609-f96f6b5792ed)
+)
+![5](![5](https://github.com/user-attachments/assets/5dd70f74-44e1-4eb3-848f-dafe9273eb0f)
+)
+![6](![6](https://github.com/user-attachments/assets/0a57090a-9b44-4740-96ef-948188c26be0)
+)
+![7](![7](https://github.com/user-attachments/assets/a33a4c7e-a233-4937-9d60-195fb9d27e4b)
+)
+![vk](<img width="63" height="63" alt="vk" src="https://github.com/user-attachments/assets/27ecddf9-60f6-429f-ab96-c96a15790a1d" />
+)
+![ok](<img width="63" height="63" alt="ok" src="https://github.com/user-attachments/assets/e0828376-6635-4c27-8ead-4e62e2c68bd2" />
+)
+![email](<img width="63" height="63" alt="mailru" src="https://github.com/user-attachments/assets/5983c464-a7ee-43b2-8102-ea55a372a363" />)
