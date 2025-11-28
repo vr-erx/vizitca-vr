@@ -1,20 +1,21 @@
 # vizitca-vr
-![1](![1](https://github.com/user-attachments/assets/2b431313-a75a-4962-b282-a978f8d32f79)
-)
-![2](![2](https://github.com/user-attachments/assets/086221ea-1612-4430-9c60-5512b97b47be)
-)
-![3](![3](https://github.com/user-attachments/assets/f24e5fef-6ae6-4ab9-aeb3-1a1581e9c076)
-)
-![4](![4](https://github.com/user-attachments/assets/c32d4f2b-4189-4e7d-b609-f96f6b5792ed)
-)
-![5](![5](https://github.com/user-attachments/assets/5dd70f74-44e1-4eb3-848f-dafe9273eb0f)
-)
-![6](![6](https://github.com/user-attachments/assets/0a57090a-9b44-4740-96ef-948188c26be0)
-)
-![7](![7](https://github.com/user-attachments/assets/a33a4c7e-a233-4937-9d60-195fb9d27e4b)
-)
-![vk](<img width="63" height="63" alt="vk" src="https://github.com/user-attachments/assets/27ecddf9-60f6-429f-ab96-c96a15790a1d" />
-)
-![ok](<img width="63" height="63" alt="ok" src="https://github.com/user-attachments/assets/e0828376-6635-4c27-8ead-4e62e2c68bd2" />
-)
-![email](<img width="63" height="63" alt="mailru" src="https://github.com/user-attachments/assets/5983c464-a7ee-43b2-8102-ea55a372a363" />)
+<img rsc="![1](https://github.com/user-attachments/assets/aa988aa6-16ac-4525-8ef4-a83b54165a95)
+" alt="Картинка">
+<img src="![2](https://github.com/user-attachments/assets/b053ab5c-1d14-4a76-b4b9-c730d180a592)
+" alt="Картинка">
+<img src="![3](https://github.com/user-attachments/assets/85ab402d-008a-4bea-8f42-ad8416d6a511)
+" alt="Картинка">
+<img src="![4](https://github.com/user-attachments/assets/cc415bb6-067a-4a57-a991-97cadf3e4060)
+" alt="Картинка">
+<img src="![5](https://github.com/user-attachments/assets/8125fc8b-0dc7-4419-9198-379bb380f9ce)
+" alt="Картинка">
+<img src="![6](https://github.com/user-attachments/assets/7eb22f93-7408-4a68-830a-a32f98379aa4)
+" alt="Картинка">
+<img src="![7](https://github.com/user-attachments/assets/4f49ee3b-da45-4fe2-9101-176c73ecff9a)"
+ alt="Картинка">
+ <img src="<img width="63" height="63" alt="vk" src="https://github.com/user-attachments/assets/6473f92c-4461-41be-8e93-883582def36b" />
+" alt="vk">
+<img src="<img width="63" height="63" alt="ok" src="https://github.com/user-attachments/assets/f005c2eb-67ee-43c9-aeb6-e0264663ee82" />
+" alt="ok">
+<img src="<img width="63" height="63" alt="mailru" src="https://github.com/user-attachments/assets/0ad24979-3e3a-4ef9-8171-fadbf5c9c733" />
+" alt="mail">
