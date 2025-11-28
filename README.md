@@ -13,9 +13,6 @@
 " alt="Картинка">
 <img src="![7](https://github.com/user-attachments/assets/4f49ee3b-da45-4fe2-9101-176c73ecff9a)"
  alt="Картинка">
- <img src="<img width="63" height="63" alt="vk" src="https://github.com/user-attachments/assets/6473f92c-4461-41be-8e93-883582def36b" />
-" alt="vk">
-<img src="<img width="63" height="63" alt="ok" src="https://github.com/user-attachments/assets/f005c2eb-67ee-43c9-aeb6-e0264663ee82" />
-" alt="ok">
-<img src="<img width="63" height="63" alt="mailru" src="https://github.com/user-attachments/assets/0ad24979-3e3a-4ef9-8171-fadbf5c9c733" />
-" alt="mail">
+ <img width="63" height="63" alt="vk" src="https://github.com/user-attachments/assets/6473f92c-4461-41be-8e93-883582def36b" />
+<img width="63" height="63" alt="ok" src="https://github.com/user-attachments/assets/f005c2eb-67ee-43c9-aeb6-e0264663ee82" />
+<img width="63" height="63" alt="mailru" src="https://github.com/user-attachments/assets/0ad24979-3e3a-4ef9-8171-fadbf5c9c733"/>
